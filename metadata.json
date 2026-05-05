@@ -1,0 +1,6 @@
+{
+  "name": "3D City Explorer",
+  "description": "A 3D scene with skyscrapers, trees, and a point-and-click character.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
